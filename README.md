@@ -22,3 +22,5 @@ film basta mettere in pausa la riproduzione finchè non compare il numero che in
 punto è possibile riavviare la rispoduzione.
 
 thanks to subixonfire
+
+Questo software è rilasciato sotto licenza Open Source GNU GPLv2 http://www.gnu.org/licenses/gpl-2.0.html

@@ -11,7 +11,12 @@ Film-Stream.tv<br/>
 Terrafilms.tv<br/>
 
 Installazione:
-copiare i file sorgenti dentro una cartella chiamata ItaliaFilms e copiare la cartella dentro:
+Il plugin utilizza python-lxml per il parsing delle pagine HTML, è necessario quindi installare il pacchetto
+tramite telnet o SSH:
+
+opkg install python-lxml
+ 
+Copiare quindi i file sorgenti dentro una cartella chiamata ItaliaFilms e copiare la cartella dentro:
 
 /usr/lib/enigma2/python/Plugins/Extensions/
 

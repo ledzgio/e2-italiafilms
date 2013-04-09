@@ -73,8 +73,8 @@ class ItaliaFilms(Screen):
         {
         "ok": self.go,
         "cancel": self.cancel,
-        "green": self.download,
-        "yellow": self.downdir
+        #"green": self.download,
+        #"yellow": self.downdir
         }, -1)
         
            

@@ -4,7 +4,7 @@ e2-italiafilms
 ItaliaFilms, i migliori film dai siti italian di streaming online. Il plugin consente di vedere film in streaming 
 sul nostro ricevitore enigma2 direttamente dai seguenti siti di streaming online: 
 
-Cineblog01.org<br/>
+Cineblog01.org
 BongStreaming.org
 FilmPerTutti.tv
 Film-Stream.tv

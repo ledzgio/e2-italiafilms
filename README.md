@@ -15,7 +15,7 @@ VK<br/>
 NowVideo<br/>
 Putlocker<br/>
 
-Installazione:
+<b>Installazione:</b><br/>
 Il plugin utilizza python-lxml per il parsing delle pagine HTML, è necessario quindi installare il pacchetto
 tramite telnet o SSH:
 
@@ -27,10 +27,10 @@ Copiare quindi i file sorgenti dentro una cartella chiamata ItaliaFilms e copiar
 
 del vostro ricevitore, quindi riavviare enigma2 per rendere effettive le modifiche.
 
-Questa è una versione beta e non tutti i film sono riproducibili. Se avete problemi con VK, una volta avviato il
+Questa è una versione preliminare beta e non tutti i film sono riproducibili. Se avete problemi con VK, una volta avviato il
 film basta mettere in pausa la riproduzione finchè non compare il numero che indica la durata del film, a quel 
 punto è possibile riavviare la rispoduzione.
 
-thanks to subixonfire
+thanks to subixonfire for the support
 
 Questo software è rilasciato sotto licenza Open Source GNU GPLv2 http://www.gnu.org/licenses/gpl-2.0.html

@@ -10,6 +10,11 @@ FilmPerTutti.tv<br/>
 Film-Stream.tv<br/>
 Terrafilms.tv<br/>
 
+Sono supportati i seguenti servizi di hosting:
+VK<br/>
+NowVideo<br/>
+Putlocker<br/>
+
 Installazione:
 Il plugin utilizza python-lxml per il parsing delle pagine HTML, è necessario quindi installare il pacchetto
 tramite telnet o SSH:

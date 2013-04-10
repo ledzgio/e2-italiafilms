@@ -10,7 +10,7 @@ FilmPerTutti.tv<br/>
 Film-Stream.tv<br/>
 Terrafilms.tv<br/>
 
-Sono supportati i seguenti servizi di hosting:
+Sono supportati i seguenti servizi di hosting:<br/>
 VK<br/>
 NowVideo<br/>
 Putlocker<br/>
